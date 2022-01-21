@@ -14,6 +14,7 @@ const App = () => {
   const theme = useContext(ThemeContext);
   const darkMode = theme.state.darkMode;
   const [overlay, setOverlay] = useState(false);
+  console.log("hell");
 
   return (
     <div
