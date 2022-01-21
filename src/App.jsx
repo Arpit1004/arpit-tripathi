@@ -22,6 +22,7 @@ const App = () => {
         color: darkMode && "white",
       }}
     >
+      <h1> hello </h1>
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Home />} />
