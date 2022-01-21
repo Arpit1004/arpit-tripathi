@@ -1,0 +1,27 @@
+.img-logo-certificate {
+  width: 150px;
+  height: 80px;
+  /* filter: grayscale(100%); */
+}
+
+.certified-section {
+  padding: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  border-bottom: 2px solid royalblue;
+}
+
+.h3-head {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media (max-width: 600px) {
+  .certified-section {
+    display: flex;
+    flex-direction: column;
+  }
+}
