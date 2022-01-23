@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/arpit-tripathi/static/css/main.33d36cd6.chunk.css",
-    "main.js": "/arpit-tripathi/static/js/main.87011438.chunk.js",
-    "main.js.map": "/arpit-tripathi/static/js/main.87011438.chunk.js.map",
+    "main.js": "/arpit-tripathi/static/js/main.ed1028e6.chunk.js",
+    "main.js.map": "/arpit-tripathi/static/js/main.ed1028e6.chunk.js.map",
     "runtime-main.js": "/arpit-tripathi/static/js/runtime-main.0655002e.js",
     "runtime-main.js.map": "/arpit-tripathi/static/js/runtime-main.0655002e.js.map",
     "static/css/2.f4c56af9.chunk.css": "/arpit-tripathi/static/css/2.f4c56af9.chunk.css",
@@ -28,6 +28,6 @@
     "static/css/2.f4c56af9.chunk.css",
     "static/js/2.70d2ec1d.chunk.js",
     "static/css/main.33d36cd6.chunk.css",
-    "static/js/main.87011438.chunk.js"
+    "static/js/main.ed1028e6.chunk.js"
   ]
 }
